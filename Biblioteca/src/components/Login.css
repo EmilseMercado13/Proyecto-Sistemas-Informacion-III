@@ -1,0 +1,68 @@
+body {
+    background-color: #d3b898; /* Fondo café claro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.login-container {
+    background-color: #fff; /* Fondo blanco */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    text-align: center;
+    border: 1px solid #d0b8a8; /* Borde en tonalidad café claro */
+}
+
+.login-container h1 {
+    color: #4b3e3e; /* Tono café oscuro */
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.login-container label {
+    display: block;
+    margin-bottom: 8px;
+    color: #4b3e3e; /* Tono café oscuro */
+    font-weight: bold;
+    text-align: left;
+}
+
+.login-container input {
+    width: calc(100% - 22px); /* Ajustar el ancho para el padding */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #d0b8a8; /* Color de borde en tonalidad café claro */
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.login-container input:focus {
+    border-color: #8d6e63; /* Color de borde en foco */
+    outline: none;
+}
+
+.login-container button {
+    background-color: #8d6e63; /* Tono café */
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.login-container button:hover {
+    background-color: #795548; /* Tono café más oscuro */
+}
+
+.login-container p {
+    margin-top: 10px;
+    color: #4b3e3e; /* Tono café oscuro */
+}

@@ -1,0 +1,52 @@
+nav {
+  background: linear-gradient(135deg, #8d6e63 0%, #a89f91 100%); /* Degradado de café claro a café oscuro */
+  padding: 15px 30px; /* Más padding para un efecto más grande */
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+  font-family: 'Arial', sans-serif; /* Cambiar tipografía */
+  border-bottom: 2px solid #7c5c4e; /* Línea inferior para más definición */
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav li {
+  margin: 0 20px; /* Espacio más amplio entre los elementos */
+}
+
+nav a {
+  color: #f4f4f4; /* Color blanco con un tono grisáceo */
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500; /* Peso de fuente medio */
+  padding: 8px 12px; /* Padding para un área de clic más grande */
+  border-radius: 8px; /* Bordes redondeados */
+  transition: background-color 0.3s, color 0.3s; /* Transiciones suaves */
+}
+
+nav a:hover {
+  background-color: #6f4f43; /* Fondo más oscuro al hacer hover */
+  color: #ffffff; /* Color blanco */
+  text-decoration: none;
+}
+
+nav a.active {
+  background-color: #7a5b4d; /* Fondo activo para el enlace actual */
+  color: #ffffff; /* Color blanco */
+  border-bottom: 2px solid #f4f4f4; /* Línea inferior para el enlace activo */
+}
+
+/* Ajustar el margen superior del contenido principal para que no quede oculto detrás del navbar */
+main {
+  margin-top: 80px; /* Altura del navbar más un poco de espacio */
+}

@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\dtos\\prestamodto.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:dtos\\prestamodto.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896458C9-D6F3-4E11-9351-41D0C48A4524}|..\\Models\\Models.csproj|c:\\users\\usuario\\source\\repos\\models\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\proyectosistemasiii.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:proyectosistemasiii.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|c:\\users\\usuario\\source\\repos\\proyectosistemasiii\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50416BC0-FB12-4748-BBC2-6764E249C5D8}|ProyectoSistemasIII.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestamoDto.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\DTOs\\PrestamoDto.cs.cs",
+              "RelativeDocumentMoniker": "DTOs\\PrestamoDto.cs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\DTOs\\PrestamoDto.cs.cs",
+              "RelativeToolTip": "DTOs\\PrestamoDto.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:26:06.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrestamoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Models\\PrestamoDto.cs",
+              "RelativeDocumentMoniker": "..\\Models\\PrestamoDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Models\\PrestamoDto.cs",
+              "RelativeToolTip": "..\\Models\\PrestamoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:21:16.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Models\\Prestamo.cs",
+              "RelativeToolTip": "Models\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:49:32.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:49:08.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Models\\Libro.cs",
+              "RelativeToolTip": "Models\\Libro.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:47:14.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T12:39:56.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:39:41.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProyectoSistemasIII.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\ProyectoSistemasIII.http",
+              "RelativeDocumentMoniker": "ProyectoSistemasIII.http",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\ProyectoSistemasIII.http",
+              "RelativeToolTip": "ProyectoSistemasIII.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-03T12:39:40.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T12:39:35.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:23:13.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:22:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "Controllers\\PrestamoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:22:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ProyectoSistemasIII\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Controllers\\LibroController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwG4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:22:18.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

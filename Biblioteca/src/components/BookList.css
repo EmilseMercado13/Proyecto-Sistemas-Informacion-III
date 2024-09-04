@@ -1,0 +1,66 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f3f0; /* Fondo café claro */
+    margin: 0;
+    padding: 0;
+}
+
+.book-list-container {
+    padding: 30px; /* Aumenta el padding para más espacio */
+    width: 97%; /* Ajusta el ancho al 95% del contenedor padre */
+    max-width: 1500px; /* Limita el ancho máximo */
+    margin: 0 auto; /* Centra el contenedor */
+    background-color: #b8aeab; /* Fondo blanco para el contenedor */
+    border-radius: 12px; /* Bordes redondeados */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+    box-sizing: border-box; /* Incluye el padding en el ancho total */
+}
+
+.book-list-container h1 {
+    color: #6e6565; /* Tono café oscuro */
+    text-align: center;
+    margin-bottom: 30px; /* Espacio adicional debajo del título */
+    font-size: 2.5rem; /* Tamaño de fuente más grande */
+    font-weight: 600; /* Negrita */
+    font-style: italic; /* Cursiva */
+}
+
+.book-table {
+    width: 97%;
+    border-collapse: separate; /* Cambiar a separación para bordes redondeados */
+    border-spacing: 1;
+    margin: 0 auto;
+    max-height: 500px; /* Altura máxima de la tabla */
+    overflow-y: auto; /* Añade scroll vertical si es necesario */
+}
+
+.book-table th, .book-table td {
+    border: 1px solid #ddd;
+    padding: 7px; /* Aumenta el padding para más espacio */
+    text-align: left;
+}
+
+.book-table th {
+    background-color: #8d6e63; /* Tono café */
+    color: white;
+    font-size: 1.2rem; /* Tamaño de fuente más grande */
+    border-top-left-radius: 12px; /* Bordes redondeados superiores */
+    border-top-right-radius: 12px; /* Bordes redondeados superiores */
+}
+
+.book-table td {
+    font-size: 1rem; /* Tamaño de fuente un poco más grande */
+}
+
+.book-table tr:nth-child(even) {
+    background-color: #aa9b97; /* Fondo gris claro para filas pares */
+}
+
+.book-table tr:hover {
+    background-color: #887676; /* Fondo gris claro para hover */
+}
+
+.book-table tbody tr:last-child td {
+    border-bottom-left-radius: 12px; /* Bordes redondeados inferiores */
+    border-bottom-right-radius: 12px; /* Bordes redondeados inferiores */
+}
